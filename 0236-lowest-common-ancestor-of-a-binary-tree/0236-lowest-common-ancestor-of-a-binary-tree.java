@@ -18,13 +18,14 @@ class Solution {
 
         TreeNode leftCall = solution(root.left, p, q);
         TreeNode rightCall = solution(root.right, p, q);
+        if(leftCall != null && rightCall != null)
+        return root;
         if(leftCall == null && rightCall == null)
         return null;
-        else if(leftCall != null && rightCall != null)
-        return root;
-        else if(leftCall != null)
+        else if( leftCall != null)
         return leftCall;
-        else return rightCall;
+        else
+        return rightCall;
     }
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
 
