@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0295-find-median-from-data-stream](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0295-find-median-from-data-stream) |
 ## Array
 |  |
 | ------- |
@@ -65,4 +66,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0112-path-sum) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Sorting
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
