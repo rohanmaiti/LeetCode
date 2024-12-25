@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Tree
 |  |
 | ------- |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0112-path-sum) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Design
 |  |
 | ------- |
