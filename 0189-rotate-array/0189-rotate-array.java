@@ -1,13 +1,7 @@
 class Solution {
     public void rotate(int[] nums, int k) {
         int size = nums.length;
-        int K;
-        // if(size > k){
-        //     K = k;
-        // }
-        // else{
-            K = k%size; // no of element to be pickedup to temp
-        // }
+        int K = k%size; // no of element to be pickedup to temp
         ArrayList<Integer> l = new ArrayList<>();
         for(int i=size-K;i<size;i++){
             l.add(nums[i]);
