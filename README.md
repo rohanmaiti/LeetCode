@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0295-find-median-from-data-stream) |
 ## Array
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0189-rotate-array) |
 | [0747-min-cost-climbing-stairs](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 ## String
 |  |
