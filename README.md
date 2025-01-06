@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0283-move-zeroes) |
 | [0747-min-cost-climbing-stairs](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 ## String
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0222-count-complete-tree-nodes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
