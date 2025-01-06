@@ -17,7 +17,7 @@ class Solution {
                     for(int j=i+1;j<nums.length;j++){
                         rightMultiple *= nums[j];
                     }
-                    System.out.print("rightMultiple =" + rightMultiple);
+                  //  System.out.print("rightMultiple =" + rightMultiple);
                 }
                 else{
                     rightMultiple = 0;
