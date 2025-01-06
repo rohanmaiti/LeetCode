@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0048-rotate-image) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0283-move-zeroes) |
 | [0747-min-cost-climbing-stairs](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0747-min-cost-climbing-stairs](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
