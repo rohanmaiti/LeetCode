@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0283-move-zeroes) |
 | [0747-min-cost-climbing-stairs](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [1036-rotting-oranges](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/1036-rotting-oranges) |
 ## String
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0048-rotate-image) |
+| [1036-rotting-oranges](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/1036-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0112-path-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1036-rotting-oranges](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/1036-rotting-oranges) |
 ## Design
 |  |
 | ------- |
