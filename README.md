@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0217-contains-duplicate) |
 ## Linked List
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0008-string-to-integer-atoi) |
 ## Recursion
 |  |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0238-product-of-array-except-self) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
