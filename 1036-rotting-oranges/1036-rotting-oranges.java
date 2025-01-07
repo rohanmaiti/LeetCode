@@ -13,7 +13,7 @@ class Solution {
         }
         int temp[][] = new int[m][n];
         for(int i=0;i<m;i++){
-            temp[i] = grid[i];
+            temp[i] = grid[i].clone();;
         }
         int maxTime = 0;
 
