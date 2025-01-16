@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0747-min-cost-climbing-stairs](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1036-rotting-oranges](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/1036-rotting-oranges) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## String
 |  |
 | ------- |
