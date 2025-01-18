@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Array
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1036-rotting-oranges](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/1036-rotting-oranges) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
