@@ -1,12 +1,20 @@
 class Solution {
-    public int maxProfit(int[] arr) {
-        int minStockValueTill_i = arr[0];
-        int max_Profit_till_i = -1;
-        for(int i=0;i<arr.length;i++){
-            int profit = arr[i] - minStockValueTill_i;
-            max_Profit_till_i = Math.max(max_Profit_till_i, profit);
-            minStockValueTill_i = Math.min(minStockValueTill_i, arr[i]);
-        }
-        return max_Profit_till_i;
+    public int maxProfit(int[] prices) {
+       // [7,1,5,3,6,4]
+       int n = prices.length;
+       int maxPrice = prices[n-1];
+       int result = 0;
+       for(int i=prices.length-1;i>=0;i--){
+            if(prices[i] < maxPrice){
+                int gain = maxPrice - prices[i];
+                result = Math.max(result, gain);
+            }
+            if(prices[i] > maxPrice){
+                maxPrice = prices[i];
+            }
+           
+       }
+       return result;
+       
     }
 }
