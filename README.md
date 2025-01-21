@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0747-min-cost-climbing-stairs](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1036-rotting-oranges](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/1036-rotting-oranges) |
+| [1331-path-with-maximum-gold](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0048-rotate-image) |
 | [1036-rotting-oranges](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/1036-rotting-oranges) |
+| [1331-path-with-maximum-gold](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/1331-path-with-maximum-gold) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+## Backtracking
+|  |
+| ------- |
+| [1331-path-with-maximum-gold](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/1331-path-with-maximum-gold) |
 <!---LeetCode Topics End-->
