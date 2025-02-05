@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0169-majority-element) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0079-word-search](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0079-word-search) |
 ## Recursion
 |  |
 | ------- |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0079-word-search) |
 | [1036-rotting-oranges](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/1036-rotting-oranges) |
 | [1331-path-with-maximum-gold](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/1331-path-with-maximum-gold) |
 ## Binary Search Tree
@@ -174,5 +178,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0079-word-search) |
 | [1331-path-with-maximum-gold](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/1331-path-with-maximum-gold) |
 <!---LeetCode Topics End-->
