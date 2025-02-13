@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0217-contains-duplicate) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0079-word-search) |
 | [1036-rotting-oranges](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/1036-rotting-oranges) |
 | [1331-path-with-maximum-gold](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/1331-path-with-maximum-gold) |
