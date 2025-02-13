@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0079-word-search) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0079-word-search) |
 | [1036-rotting-oranges](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/1036-rotting-oranges) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Backtracking
 |  |
