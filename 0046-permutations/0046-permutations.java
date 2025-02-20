@@ -1,26 +1,26 @@
 class Solution {
-    public void swap(int []nums, int idx, int i){
-        int temp = nums[idx];
-        nums[idx] = nums[i];
-        nums[i] = temp;
+    public void swap(int nums[],int i, int j){
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
     }
-    public void sol(int []nums, int idx, int n, List<List<Integer>> result){
-        if(idx == n){
-            List<Integer> l = new ArrayList<>();
-            for(int i=0;i<n;i++)
-            l.add(nums[i]);
+    public void sol(int nums[], int idx,  List<List<Integer>> result){
+        if(idx == nums.length){
+            // result here
+            List <Integer> l = new ArrayList<>();
+            for(var ele: nums)
+            l.add(ele);
             result.add(new ArrayList<>(l));
-            return;
         }
-        for(int i=idx;i<n;i++){
-            swap(nums,i,idx);
-            sol(nums,idx+1,n,result);
-            swap(nums,i,idx);
+        for(int i=idx;i<nums.length;i++){
+            swap(nums, i, idx);
+            sol(nums, idx+1, result);
+            swap(nums, i, idx);
         }
     }
     public List<List<Integer>> permute(int[] nums) {
         List<List<Integer>> result = new ArrayList<>();
-        sol(nums, 0, nums.length, result);
+        sol(nums, 0, result);
         return result;
     }
 }
