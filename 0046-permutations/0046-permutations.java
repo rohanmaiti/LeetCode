@@ -10,7 +10,7 @@ class Solution {
             List <Integer> l = new ArrayList<>();
             for(var ele: nums)
             l.add(ele);
-            result.add(new ArrayList(l));
+            result.add(new ArrayList<>(l));
         }
         for(int i=idx;i<nums.length;i++){
             swap(nums, i, idx);
