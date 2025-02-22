@@ -1,87 +1,91 @@
 class Solution {
-    public boolean isSafe(char [][]matrix, int row, int col, int n){
-        // row wise
-        for(int i=0;i<n;i++)
-        if(matrix[row][i] == 'Q') return false;
-        // col wise
-        for(int i=0;i<n;i++)
-        if(matrix[i][col] == 'Q') return false;
-
-      
-        // left up cross
-        int i=col-1;
-        int j=row-1;
-        while(i>=0 && j>=0){
-            if(matrix[j][i] == 'Q')
-            return false;
+    public boolean isSafe(char [][]grid, int row, int col){
+        int i = row;
+        // up
+        while(i>=0){
+            if(grid[i][col] == 'Q') return false;
+            i--;
+        }
+        // down
+        i = row;
+        while(i<grid.length){
+            if(grid[i][col] == 'Q') return false;
+            i++;
+        }
+        // left
+        i = col;
+        while(i>=0){
+             if(grid[row][i] == 'Q') return false;
+            i--;
+        }
+        // right
+        i = col;
+        while(i<grid.length){
+             if(grid[row][i] == 'Q') return false;
+            i++;
+        }
+        // left up corner
+        i = row;
+        int j = col;
+        while(i>=0 && j >=0){
+            if(grid[i][j] == 'Q') return false;
             i--;
             j--;
-        }
-
-        //left down cross
-        i = col+1;
-        j = row+1;
-          while(i<n && j<n){
-            if(matrix[j][i] == 'Q')
-            return false;
+        } 
+        // right dowm corner
+        i = row;
+        j = col;
+        while(i < grid.length && j < grid.length){
+            if(grid[i][j] == 'Q') return false;
             i++;
             j++;
-        }
-
-        // right up cross
-        // i-- , j++
-        i = col+1;
-        j = row-1;
-          while(i<n && j>=0){
-            if(matrix[j][i] == 'Q')
-            return false;
-            i++;
-            j--;
-        }
-
-        // right down cross
-        // i++ , j--
-        i = col-1;
-        j = row+1;
-          while(i>=0 && j<n){
-            if(matrix[j][i] == 'Q')
-            return false;
+        } 
+        // right up corner
+        i = row;
+        j = col;
+        while(i >= 0 && j < grid.length){
+            if(grid[i][j] == 'Q') return false;
             i--;
             j++;
-        }
+        } 
+        // left down corner
+        i = row;
+        j = col;
+        while(i < grid.length && j >= 0){
+            if(grid[i][j] == 'Q') return false;
+            i++;
+            j--;
+        } 
 
         return true;
 
-
     }
-    public void sol(char [][]matrix,int n, int row, List<List<String>> result){
-        if(row == n){
+    public void sol(char [][] grid, int row, List<List<String>> result){
+        if(row == grid.length){
+            // capture image of grid
             List<String> l = new ArrayList<>();
-            for(int i=0;i<n;i++){
-                StringBuilder sb = new StringBuilder();
-                for(int j=0;j<n;j++){
-                    sb.append(matrix[i][j]);
-                }
-                l.add(sb.toString()); 
+            for(int i=0;i<grid.length;i++){
+                String s = String.valueOf(grid[i]);
+                l.add(s);
             }
-            result.add(l);
-            return;
+            result.add(new ArrayList<>(l));
+            return ;
         }
-        for(int i=0;i<n;i++){
-            if(isSafe( matrix, row, i, n)){
-                matrix[row][i] = 'Q';
-                sol(matrix, n, row+1, result);
-                matrix[row][i] = '.';
+
+        for(int i=0;i<grid.length;i++){
+            if(isSafe(grid, row, i)){
+                grid[row][i] = 'Q';
+                sol(grid, row+1, result);
+                grid[row][i] = '.';
             }
         }
     }
     public List<List<String>> solveNQueens(int n) {
-        List<List<String>> result = new ArrayList<>();
-        char [][]matrix = new char[n][n];
+        char grid[][] = new char[n][n];
         for(int i=0;i<n;i++)
-        Arrays.fill(matrix[i],'.');
-
-        sol(matrix, n, 0, result);
+        Arrays.fill(grid[i], '.');
+        List<List<String>> result = new ArrayList<>();
+        sol(grid, 0, result);
         return result;
     }
 }
