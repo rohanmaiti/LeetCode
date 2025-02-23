@@ -12,12 +12,10 @@ class Solution {
             else{
                 // calculate the length
                 int noOfElement = j-i;
-                int x = n / 3;
-              
+                int x = n / 3;        
                     if(noOfElement > x){
                         result.add(nums[i]);
                     }
-
                 i = j;
             }
         }
