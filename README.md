@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Linked List
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0079-word-search](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0079-word-search) |
+| [0424-longest-repeating-character-replacement](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Recursion
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
