@@ -10,6 +10,7 @@ class Solution {
            m.put(arr[j],m.getOrDefault(arr[j],0)+1);
            maxFreq = Math.max(maxFreq, m.get(arr[j]));
            if(((j-i+1 )- maxFreq) > k){
+        //    while(((j-i+1 )- maxFreq) > k){
             maxFreq = 0;
             m.put(arr[i],m.get(arr[i])-1);
             if(m.get(arr[i]) == 0){
