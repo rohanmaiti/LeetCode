@@ -9,18 +9,26 @@ class Solution {
         while(j < arr.length){
            m.put(arr[j],m.getOrDefault(arr[j],0)+1);
            maxFreq = Math.max(maxFreq, m.get(arr[j]));
-           if(((j-i+1 )- maxFreq) > k){
         //    while(((j-i+1 )- maxFreq) > k){
-            maxFreq = 0;
+        //     maxFreq = 0;
+        //     m.put(arr[i],m.get(arr[i])-1);
+        //     if(m.get(arr[i]) == 0){
+        //         m.remove(arr[i]);
+        //     }
+        //     for(var key : m.keySet()){
+        //         if(m.get(key) > maxFreq)
+        //         maxFreq = m.get(key);
+        //     }
+        //     i++;
+        //    }
+        
+           // optimise 
+           if((j-i+1 - maxFreq) > k){
             m.put(arr[i],m.get(arr[i])-1);
-            if(m.get(arr[i]) == 0){
+           if(m.get(arr[i]) == 0){
                 m.remove(arr[i]);
             }
-            // for(var key : m.keySet()){
-            //     if(m.get(key) > maxFreq)
-            //     maxFreq = m.get(key);
-            // }
-            i++;
+           i++; 
            }
            ans = Math.max(ans, j-i+1);
            j++;
