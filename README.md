@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rohanmaiti/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0189-rotate-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rohanmaiti/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Recursion
@@ -222,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/0090-subsets-ii) |
 | [1331-path-with-maximum-gold](https://github.com/rohanmaiti/DSA_LeetCode/tree/master/1331-path-with-maximum-gold) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rohanmaiti/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
